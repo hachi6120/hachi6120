@@ -6,5 +6,3 @@
 ![Kotlin](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=kotlin) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hachi6120&icon=0&color=0)](https://visitcount.itsvg.in)
-
